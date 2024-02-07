@@ -1,7 +1,7 @@
 {
   "name": "custom-elements",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.ts",
   "license": "MIT",
   "devDependencies": {
     "parcel": "^2.0.0-rc.0"
