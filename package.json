@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "parcel serve ./src/index.html",
-    "build": "parcel build --dist-dir build --public-url [https://github.com/Nashinshin/custom-elements]",
+    "build": "parcel build --dist-dir build --public-url [https://github.com/Nashinshin/custom-elements.git]",
     "deploy": "gh-pages -d build"
   }
 
